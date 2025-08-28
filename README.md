@@ -12,5 +12,10 @@ This is a simple web application built with Python and Flask that identifies **N
 - Flask
 - HTML/CSS
 
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mhutshaa9/CRISPR-Cas9 PAM Recognition Web App.git
+   cd CRISPR-Cas9 PAM Recognition Web App
 
 
