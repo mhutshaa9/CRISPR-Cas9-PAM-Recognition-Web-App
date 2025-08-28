@@ -12,9 +12,5 @@ This is a simple web application built with Python and Flask that identifies **N
 - Flask
 - HTML/CSS
 
-## 🚀 How to Run
-1. **Clone the repository** (or download the files):
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+
 
