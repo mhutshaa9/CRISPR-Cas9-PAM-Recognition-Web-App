@@ -18,4 +18,7 @@ This is a simple web application built with Python and Flask that identifies **N
    git clone https://github.com/mhutshaa9/CRISPR-Cas9 PAM Recognition Web App.git
    cd CRISPR-Cas9 PAM Recognition Web App
 
+## How do use the app
+Browse http://127.0.0.1:5000/
+
 
